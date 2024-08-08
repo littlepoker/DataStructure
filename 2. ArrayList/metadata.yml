@@ -1,0 +1,12 @@
+---
+:id: 34600968
+:submitters:
+- :name: Jiaxin Tang
+  :email: jit008@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-04-14 05:38:37.908063000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-04-13 22:38:37.908063000 Z
+:status: processed
+:score: 95.75
